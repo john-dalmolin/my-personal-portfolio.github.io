@@ -1,6 +1,6 @@
-# my-personal-portfolio.github.io
+# Welcome to my personal portfolio website! 💾
 
-Welcome to my personal portfolio website! This website was designed and developed using HTML, CSS, and Javascript, with inspiration from Marlom's work at Bedimcode.
+This website was designed and developed using HTML, CSS, and Javascript, with inspiration from Marlom's work at Bedimcode.
 
 On the homepage, you'll find a stylish and minimalistic design that showcases my personal brand and highlights my skills and expertise. The homepage includes a brief introduction about me and my background, as well as links to my resume, portfolio, and social media profiles.
 
