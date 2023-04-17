@@ -113,6 +113,10 @@ img {
   height: auto;
 }
 
+.about {
+  border-radius: 0.5rem;
+}
+
 /*==================== REUSABLE CSS CLASSES ====================*/
 .section {
   padding: 2rem 0 4rem;
