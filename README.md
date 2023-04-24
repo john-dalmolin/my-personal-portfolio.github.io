@@ -10,3 +10,5 @@ The website also includes a blog section, where I regularly post articles about 
 The website's design is fully responsive, which means it adapts to different screen sizes and devices. It has been optimized for fast loading times and includes clean and organized code for easy maintenance and updates.
 
 Overall, my personal portfolio website is a professional and user-friendly platform that showcases my skills, experience, and personality to potential clients, collaborators, and employers.
+
+# Preview
