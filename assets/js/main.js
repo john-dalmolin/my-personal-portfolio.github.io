@@ -108,9 +108,9 @@ let swiperPortfolio = new Swiper(".portfolio__container", {
 
 /*==================== TESTIMONIAL ====================*/
 let swiperTestimonial = new Swiper(".testimonial__container", {
-  loop: true,
   grabCursor: true,
   spaceBetween: 48,
+  loop: true,
 
   pagination: {
     el: ".swiper-pagination",
@@ -119,7 +119,7 @@ let swiperTestimonial = new Swiper(".testimonial__container", {
   },
   breakpoints: {
     568: {
-      slidesPerView: 2,
+      slidesPerView: 1, // I decided to switch the original value :)
     },
   },
 });
