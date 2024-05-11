@@ -10,9 +10,3 @@ The website also includes a blog section, where I regularly post articles about 
 The website's design is fully responsive, which means it adapts to different screen sizes and devices. It has been optimized for fast loading times and includes clean and organized code for easy maintenance and updates.
 
 Overall, my personal portfolio website is a professional and user-friendly platform that showcases my skills, experience, and personality to potential clients, collaborators, and employers.
-
-# Light Version
-![Screenshot 2023-04-28 at 00-09-02 My Portfolio](https://user-images.githubusercontent.com/82729254/235045249-3517a2bd-ad51-417e-bf13-21990e543189.png)
-
-# Dark Version
-![Screenshot 2023-04-28 at 00-09-10 My Portfolio](https://user-images.githubusercontent.com/82729254/235045256-f3e08d07-c78e-42c8-a000-e00772365aee.png)
